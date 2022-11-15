@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor A. Sotomayor!
 - 👀 I’m interested in software development, game development, and artificial intelligence!
-- 🌱 I’m currently learning JavaScript and game development through Unity.
+- 🌱 I’m currently learning JavaScript and game development through Unreal Engine 4/5.
 - 📫 The easiest way to reach me is through my e-mail at vialso2012@gmail.com
 
 Through my education at the University of Florida, I've worked extensively on game design projects,
