@@ -11,3 +11,6 @@ of my responsibilities were often data storage and access, interactions between 
 and API access. 
 
 I'm currently studying through Stephen Ulibarri's Gameplay Ability System UE5 course!
+
+A demo from one of my projects:
+Project Fenrir - https://youtu.be/NCCINwy8DEk
